@@ -49,7 +49,7 @@ The first thing you have to do before trying to run this program is to go and
 download an uncompressed version of no-hats-bgum. You can download an up-to-date
 version here:
 
-https://github.com/Fedora31/no-hats-bgum/blob/master/nhm\_source/mechbgum\_no\_hats\_mod/no\_hats\_bgum.zip
+https://github.com/Fedora31/no-hats-bgum/blob/master/nhm_source/mechbgum_no_hats_mod/no_hats_bgum.zip
 
 Place it in the "input" folder. Be sure the filepath is the same as this one: `input/models/...`
 
