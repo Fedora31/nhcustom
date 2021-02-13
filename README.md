@@ -27,7 +27,7 @@ I'm making this program for the fun of it.
 * [Exceptions (!)](#exceptions-)
 * [Asterisks (\*)](#asterisks-)
 * [Comments](#comments)
-* [The (KEEP) and (REMOVE) flag](#the-keep-and-remove-flag)
+* [The (KEEP) and (REMOVE) flag](#the-keep-and-remove-flags)
 * [The input folder](#the-input-folder)
 * [The output folder](#the-output-folder)
 * [The database](#the-database)
