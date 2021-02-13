@@ -1,0 +1,63 @@
+﻿    nhcustom help file, last updated 2021-02-07 (YYYY-mm-dd)
+
+    This program has been created in the aim to more easily modify
+    the Team Fortress 2 mod "no hats mod".
+
+
+# Presentation #
+
+    The program looks for a configuration file named "config.txt" in
+    the same directory it's in.
+    
+    It also looks for a database file named "database.txt" in the
+    same location.
+    
+    It will parse a folder named "input" to get the files referenced
+    in the database.
+    
+    The parameters of the configuration file will be read at startup
+    and the program will copy files to the "output" folder based on
+    the instructions it found.
+
+
+    The instructions that can be written in the config file:
+
+    - A cosmetic item
+    - An update
+    - An equip region
+    - A class
+    - A (KEEP) or (REMOVE) flag
+
+
+# Errors #
+
+    A (REMOVE) or (KEEP) flag has been ignored as it's been already
+    set.
+    
+        This is to tell you that your config file has more than one
+        flag in it.
+        
+    Unknown parameter!
+    
+        A parameter in the config file is not recognized, the
+        program will ignore it.
+        
+    Warning: The database doesn't contain a path for:
+    "[nameOfCosmetic]"
+    
+        The database contains this for every hat:
+        "PATH=(somePathHere)". In this instance, there is no path
+        between the "()". This is likely a database error.
+        
+    Error: "[somePathHere]": this path doesn't exist.
+    
+        The path in the database leads to nothing. There is likely
+        an error in the database.
+        
+    Error: "[somePathHere]": the pattern search "[aPatternHere]"
+    retreived 0 results.
+    
+        The program tried to scan the given path with the given
+        pattern, but hasn't found any match. There is maybe an
+        error in the database or the file doesn't exist in the
+        input folder.
