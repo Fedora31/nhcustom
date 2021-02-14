@@ -8,6 +8,8 @@ If you want to remove specific hats from the game or if you want to remove every
 and handpick yourself the hats that you want to keep seeing, this program should come in
 handy.
 
+[no-hats-bgum repository](https://github.com/Fedora31/no-hats-bgum)
+
 
 ## Quick notice
 
