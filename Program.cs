@@ -65,7 +65,7 @@ namespace nhcustom
 
 
             //regex to find the name of updates in the database
-            Regex updatePattern = new Regex(@"UPDATE =\(([^\)]*)\)", RegexOptions.IgnoreCase);
+            Regex updatePattern = new Regex(@"UPDATE=\(([^\)]*)\)", RegexOptions.IgnoreCase);
 
             //regex to find all the existing bodyparts in the database
             Regex bodyPattern = new Regex(@"EQUIP=\(([^\)]*)\)", RegexOptions.IgnoreCase);

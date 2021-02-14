@@ -14,7 +14,7 @@ handy.
 ## Quick notice
 
 This program has been/is being written in the aim to learn C\# and programming in
-general. I **do not** have **any** experience in this field. I will continue to
+general. I **do not** have **any** experience in both of those fields. I will continue to
 improve the code whenever I have the time and the motivation. My knowledge is
 slowly growing each day, please give it some time.
 
