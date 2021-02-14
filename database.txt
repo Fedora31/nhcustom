@@ -450,7 +450,7 @@ HAT=(Faerie Solitaire Pin) CLASS=(All classes) EQUIP=(Medal) DATE=(2012-11-29) U
 HAT=(Falconer) CLASS=(Sniper) EQUIP=(Sleeves) DATE=(2013-07-10) UPDATE=(Summer Event 2013) PATH=(models/workshop/player/items/sniper/jul13_falconer_punch)
 HAT=(Fallen Angel) CLASS=(Pyro) EQUIP=(Wings) DATE=(2011-10-27) UPDATE=(Very Scary Halloween Special) PATH=(models/player/items/pyro/hwn_pyro_misc1.*)
 HAT=(Fancy Dress Uniform) CLASS=(Soldier) EQUIP=(Shirt) DATE=(2011-06-23) UPDATE=(Über Update) PATH=(models/player/items/soldier/fdu.*)
-HAT=(Fancy Fedora) CLASS=(Spy) EQUIP=(Hat) DATE=(2009-05-21) UPDATE=(Sniper vs. Spy Update) PATH=(models/player/items/(CLASS)/hwn_spy_hat.*)
+HAT=(Fancy Fedora) CLASS=(Spy) EQUIP=(Hat) DATE=(2009-05-21) UPDATE=(Sniper vs. Spy Update) PATH=(models/player/items/spy/spy_hat.*)
 HAT=(Fashionable Megalomaniac) CLASS=(Medic) EQUIP=(Beard) DATE=(2014-02-07) UPDATE=(Strongbox Pack) PATH=(models/workshop/player/items/medic/sbox2014_fashionable_megalomaniac)
 HAT=(Fast Learner) CLASS=(Scout) EQUIP=(Shirt, Arm Tattoos) DATE=(2012-02-23) UPDATE=(None) PATH=(models/player/items/scout/scout_prep_shirt.*)
 HAT=(Fat Man's Field Cap) CLASS=(Heavy) EQUIP=(Hat) DATE=(2017-10-20) UPDATE=(Jungle Inferno Update) PATH=(models/workshop/player/items/heavy/fall17_fat_manns_field_cap)
