@@ -295,6 +295,6 @@ Self-Care
 Heavy Duty Rag
 
 #Equip regions
-Disconnected Floating
+Disconnected Floating Item
 
 </pre>
