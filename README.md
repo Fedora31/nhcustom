@@ -212,11 +212,11 @@ run the program, so make sure that you backup anything you want to keep.** If th
 output folder doesn't exist, it will be created automatically.
 
 **The resulting mod isn't compiled.** Refer to these 2 videos to know how to compile
-it to a .vpk file and install it.
+it to a .vpk file and install it (the instructions are at the end of the videos).
 
-Windows: https://streamable.com/uav0li
+Windows: https://streamable.com/b9evay
 
-Linux: https://streamable.com/vxchci
+Linux: https://streamable.com/v0g3dh
 
 
 ## The database
