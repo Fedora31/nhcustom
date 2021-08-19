@@ -353,7 +353,7 @@ HAT=(Dayjogger) CLASS=(Demoman) EQUIP=(Hat) DATE=(2016-05-11) UPDATE=(Mayflower 
 HAT=(Dead Cone) CLASS=(Pyro) EQUIP=(Hat) DATE=(2011-04-28) UPDATE=(None) PATH=(models/player/items/pyro/traffic_cone.*)
 HAT=(Dead Head) CLASS=(Spy) EQUIP=(Face) DATE=(2016-05-11) UPDATE=(Mayflower Pack) PATH=(models/workshop/player/items/spy/skullmask)
 HAT=(Dead Little Buddy) CLASS=(All classes) EQUIP=(Disconnected Floating Item) DATE=(2012-10-26) UPDATE=(Spectral Halloween Special) PATH=(models/player/items/all_class/hwn_pet_ghost.*, models/player/items/all_class/hwn_pet_ghost_demo.*, models/player/items/all_class/hwn_pet_ghost_pyro.*)
-HAT=(Dead of Night) CLASS=(All classes) EQUIP=(Shirt) DATE=(2013-12-20) UPDATE=(Smissmas 2013) PATH=(models/workshop/player/items/all_class/xms2013_jacket)
+HAT=(Dead of Night) CLASS=(All classes) EQUIP=(Shirt) DATE=(2013-12-20) UPDATE=(Smissmas 2013) PATH=(models/workshop/player/items/all_class/xms2013_jacket, models/workshop/player/items/all_class/xmas2013_jacket_s2)
 HAT=(Dead'er Alive) CLASS=(Engineer) EQUIP=(Head Skin) DATE=(2015-10-28) UPDATE=(Scream Fortress 2015) PATH=(models/workshop/player/items/engineer/hwn2015_mechanical_engineer)
 HAT=(Deadbeats) CLASS=(All classes) EQUIP=(Ears) DATE=(2018-10-19) UPDATE=(Scream Fortress 2018) PATH=(models/workshop/player/items/all_class/hwn2018_deadbeats)
 HAT=(Deadliest Duckling) CLASS=(Soldier, Pyro, Demoman, Engineer, Sniper) EQUIP=(Pocket, Grenades) DATE=(2012-11-16) UPDATE=(None) PATH=(models/player/items/all_class/hm_duck_(CLASS).*)
