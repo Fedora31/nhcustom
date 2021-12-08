@@ -10,6 +10,7 @@ handy.
 
 [no-hats-bgum repository](https://github.com/Fedora31/no-hats-bgum)
 
+### !! To have the latest version of the database, use the file `database.txt` from the repository, not the one shipped with the release.
 
 ## Quick notice
 
