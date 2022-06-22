@@ -13,6 +13,12 @@ handy.
 ### !! To have the latest version of the database, use the file `database.txt` from the repository, not the one shipped with the release.
 
 ## Quick notice
+I will **not** update the code of this project, as it is too tedious to work around the many
+mistakes I made when I first wrote it, and as I don't have a C\# compiler anymore. I'm
+*slowly* rewriting this program and will host it in a new repository. For now, I'm still
+updating the database.
+
+old notice:
 
 This program has been/is being written in the aim to learn C\# and programming in
 general. I **do not** have **any** experience in both of those fields. I will continue to
@@ -249,15 +255,12 @@ entries to it, it *should* work. I haven't tested this though.
 If you want to contact me about this program, You can reach me at this e-mail
 address: `pevhs AT airmail D0T cc`
 
-You can also contact me through steam: https://steamcommunity.com/id/mranchois/
-
 
 ## Configuration file example
 
 Here is an example of a configuration file.
 
-<pre>
-
+```
 #KEEP flag, so the config file contains parameters that will appear in-game.
 (KEEP)
 
@@ -302,5 +305,4 @@ Heavy Duty Rag
 
 #Equip regions
 Disconnected Floating Item
-
-</pre>
+```
