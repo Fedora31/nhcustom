@@ -499,7 +499,7 @@ HAT=(Fowl Fists) CLASS=(Scout) EQUIP=(Sleeves) DATE=(2014-10-29) UPDATE=(Scream 
 HAT=(Frag Proof Fragger) CLASS=(Demoman) EQUIP=(Whole Head) DATE=(2018-03-28) UPDATE=(Blue Moon Pack) PATH=(models/workshop/player/items/demo/spr18_frag_proof_fragger)
 HAT=(Freedom Feathers) CLASS=(Soldier) EQUIP=(Whole Head) DATE=(2013-10-29) UPDATE=(Scream Fortress 2013) PATH=(models/workshop/player/items/soldier/hw2013_feathered_freedom)
 HAT=(Frenchman's Beret) CLASS=(Spy) EQUIP=(Hat) DATE=(2010-05-20) UPDATE=(Second Community Contribution Update) PATH=(models/player/items/spy/spy_beret.*)
-HAT=(Frenchman's Formals) CLASS=(Scout, Spy) EQUIP=(Shirt) DATE=(2013-10-10) UPDATE=(Fall Event 2013) PATH=(models/workshop/player/items/all_class/fall2013_fancycoat)
+HAT=(Frenchman's Formals) CLASS=(Scout, Spy) EQUIP=(Shirt) DATE=(2013-10-10) UPDATE=(Fall Event 2013) PATH=(models/workshop/player/items/all_class/fall2013_fancycoat, models/workshop/player/items/all_class/fall2013_fancycoat_s2)
 HAT=(Frickin' Sweet Ninja Hood) CLASS=(Scout) EQUIP=(Hat, Beard, Head Skin) DATE=(2014-06-18) UPDATE=(Love & War Update) PATH=(models/workshop/player/items/scout/short2014_scout_ninja_mask)
 HAT=(Friends Forever Companion Square Badge) CLASS=(All classes) EQUIP=(Medal) DATE=(2012-09-21) UPDATE=(None) PATH=(models/player/items/all_class/3a_cube.*)
 HAT=(Front Runner) CLASS=(Scout) EQUIP=(Hat) DATE=(2012-05-10) UPDATE=(None) PATH=(models/player/items/scout/scout_headband.*)
