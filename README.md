@@ -1,5 +1,12 @@
 # nhcustom
 
+## Notice
+
+**This program is no longer updated.** I would encourage you to take a look at the second
+version [nhcustom2](https://github.com/Fedora31/nhcustom2) instead.
+
+## old
+
 nhcustom is a (work-in-progress) application whose purpose is to modify the Team Fortress
 2 mod "no-hats-bgum". It looks for a configuration file named "config.txt" and executes
 the actions specified in it.
@@ -13,12 +20,6 @@ handy.
 ### !! To have the latest version of the database, use the file `database.txt` from the repository, not the one shipped with the release.
 
 ## Quick notice
-I will **not** update the code of this project, as it is too tedious to work around the many
-mistakes I made when I first wrote it, and as I don't have a C\# compiler anymore. I'm
-*slowly* rewriting this program and will host it in a new repository. For now, I'm still
-updating the database.
-
-old notice:
 
 This program has been/is being written in the aim to learn C\# and programming in
 general. I **do not** have **any** experience in both of those fields. I will continue to
